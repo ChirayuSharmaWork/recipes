@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(35, 222, 255);
+}
+
+h2,h3,p,li,
+.MainHeading{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+div {
+    text-align: center;
+}
+
+.link{
+    color: rgb(6, 130, 6);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 40px;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    font-size: 20px;
+    text-align: left;
+}
+
+p,li{
+    font-size: 15px;
+    text-align: left;
+}
+
+.about{
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    align-content: center;
+    height: auto;
+}
