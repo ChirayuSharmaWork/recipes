@@ -10,8 +10,24 @@ h2,h3,p,li,
     font-size: 40px;
 }
 
-div {
+.MainHeading{
+    margin-top: 0px;
+}
+.divlinks {
     text-align: center;
+    width: 800px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.menu{
+    background-color: blanchedalmond;
+    width: 1000px;
+    margin:  50px  auto;
+    padding-bottom: 500px;
+    padding-top: 10px;
+    box-sizing: border-box;
+
 }
 
 .link{
@@ -19,8 +35,11 @@ div {
     font-size: 30px;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
-    margin-left: 40px;
     text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: block;
+    margin-top: 20px;
 }
 
 h2{
